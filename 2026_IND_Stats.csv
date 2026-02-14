@@ -1,73 +1,74 @@
-Name,Team,DC Points,Wins,AVG Score,Best Score,Birdies,Eagles,
-Aidan Franke,Shark GC,0,0,-,-,0,0,
-Austin Russell,Quattro GC,0,0,-,-,0,0,
-Ben Brooks,Shark GC,0,0,-,-,0,0,
-Ben Fuller,Elite GC,0,0,-,-,0,0,
-Ben Horton,Clutch GC,0,0,-,-,0,0,
-Bennett Brock,Mamba GC,0,0,-,-,0,0,
-Bill Johnson,Double Down GC,0,0,-,-,0,0,
-Brady Papke,Shark GC,0,0,-,-,0,0,
-Cade Lewis,Smoke GC,0,0,-,-,0,0,
-Caiden Vlasimsky,Nighthawk GC,0,0,-,-,0,0,
-Cam Ruk,Hammer GC,0,0,-,-,0,0,
-Chris Hughes,Double Down GC,0,0,-,-,0,0,
-Chris Wines,Double Down GC,0,0,-,-,0,0,
-Cole Bennett,Hammer GC,0,0,-,-,0,0,
-Cullen Scott,Mamba GC,0,0,-,-,0,0,
-Davis Boehm,Nighthawk GC,0,0,-,-,0,0,
-Davis Milton,Double Down GC,0,0,-,-,0,0,
-Ely Knaupe,Double Down GC,0,0,-,-,0,0,
-Ethan Cherry,Mamba GC,0,0,-,-,0,0,
-Ethan Dabney,Dart GC,0,0,-,-,0,0,
-Grant Cohen,Nighthawk GC,0,0,-,-,0,0,
-Holt Dorris,Clutch GC,0,0,-,-,0,0,
-Hunter McLean,Mamba GC,0,0,-,-,0,0,
-Hyer Thomas,Hammer GC,0,0,-,-,0,0,
-Ian Raphael,Chaos GC,0,0,-,-,0,0,
-Jack Doherty,Chaos GC,0,0,-,-,0,0,
-Jack Fain,Elite GC,0,0,-,-,0,0,
-Jack McConnell,Shark GC,0,0,-,-,0,0,
-Jake Robinson,Smoke GC,0,0,-,-,0,0,
-Jake Saunders,Tiger GC,0,0,-,-,0,0,
-Jamie Clyde,Nighthawk GC,0,0,-,-,0,0,
-JD Beverly,Smoke GC,0,0,-,-,0,0,
-Joey Severt,Quattro GC,0,0,-,-,0,0,
-John Hoover,Smoke GC,0,0,-,-,0,0,
-Keegan Ferer,Clutch GC,0,0,-,-,0,0,
-Kevin Cook,Chaos GC,0,0,-,-,0,0,
-Lucas Leifeld,Quattro GC,0,0,-,-,0,0,
-Marco Dizon,Dart GC,0,0,-,-,0,0,
-Mason Embry,Mamba GC,0,0,-,-,0,0,
-Matt Moseley,Tiger GC,0,0,-,-,0,0,
-Matthew Lodwick,Double Down GC,0,0,-,-,0,0,
-Michael Clarke,Dart GC,0,0,-,-,0,0,
-Nate Leifeld,Nighthawk GC,0,0,-,-,0,0,
-Noah Skrudland,Shark GC,0,0,-,-,0,0,
-Pat Ellis,Tiger GC,0,0,-,-,0,0,
-Patrick Bush,Chaos GC,0,0,-,-,0,0,
-Patrick McNulty,Hammer GC,0,0,-,-,0,0,
-Paul Brittain,Shark GC,0,0,-,-,0,0,
-Peter Geib,Dart GC,0,0,-,-,0,0,
-Preston Fleenor,Tiger GC,0,0,-,-,0,0,
-Quillin McKenney,Mamba GC,0,0,-,-,0,0,
-Rhett Anderson,Hammer GC,0,0,-,-,0,0,
-Robert Meara,Clutch GC,0,0,-,-,0,0,
-Robert Taaffe,Elite GC,0,0,-,-,0,0,
-Rory Hogan,Dart GC,0,0,-,-,0,0,
-Ryan Waters,Nighthawk GC,0,0,-,-,0,0,
-Schaeffer Rees,Elite GC,0,0,-,-,0,0,
-Sunjay Chawla,Quattro GC,0,0,-,-,0,0,
-Thomas Jeansonne,Quattro GC,0,0,-,-,0,0,
-Thomas Nolan,Tiger GC,0,0,-,-,0,0,
-Travis Amerine,Clutch GC,0,0,-,-,0,0,
-Travis Roberts,Elite GC,0,0,-,-,0,0,
-Tyler Custard,Smoke GC,0,0,-,-,0,0,
-Tyler Sieli,Quattro GC,0,0,-,-,0,0,
-Walt Bruce,Smoke GC,0,0,-,-,0,0,
-Will Reichert,Chaos GC,0,0,-,-,0,0,
-Zach Amacher,Tiger GC,0,0,-,-,0,0,
-Zach Brantley,Chaos GC,0,0,-,-,0,0,
-Zach Walker,Elite GC,0,0,-,-,0,0,
-Empty Slot,,0,0,-,-,0,0,
-Empty Slot,,0,0,-,-,0,0,
-Empty Slot,,0,0,-,-,0,0,
+Name,Team,DC Points,Wins,AVG Score,Best Score,Birdies,Eagles
+Aidan Franke,Shark GC,0,0,-,-,0,0
+Austin Russell,Quattro GC,0,0,-,-,0,0
+Ben Brooks,Shark GC,0,0,-,-,0,0
+Ben Fuller,Elite GC,0,0,-,-,0,0
+Ben Horton,Clutch GC,0,0,-,-,0,0
+Bennett Brock,Mamba GC,0,0,-,-,0,0
+Bill Johnson,Double Down GC,0,0,-,-,0,0
+Brady Papke,Shark GC,0,0,-,-,0,0
+Cade Lewis,Smoke GC,0,0,-,-,0,0
+Caiden Vlasimsky,Nighthawk GC,0,0,-,-,0,0
+Cam Ruk,Hammer GC,0,0,-,-,0,0
+Chris Hughes,Double Down GC,0,0,-,-,0,0
+Chris Wines,Double Down GC,0,0,-,-,0,0
+Cole Bennett,Hammer GC,0,0,-,-,0,0
+Cullen Scott,Mamba GC,0,0,-,-,0,0
+Davis Boehm,Nighthawk GC,0,0,-,-,0,0
+Davis Milton,Double Down GC,0,0,-,-,0,0
+Ely Knaupe,Double Down GC,0,0,-,-,0,0
+Ethan Cherry,Mamba GC,0,0,-,-,0,0
+Ethan Dabney,Dart GC,0,0,-,-,0,0
+Grant Cohen,Nighthawk GC,0,0,-,-,0,0
+Holt Dorris,Clutch GC,0,0,-,-,0,0
+Hunter McLean,Mamba GC,0,0,-,-,0,0
+Hyer Thomas,Hammer GC,0,0,-,-,0,0
+Ian Raphael,Chaos GC,0,0,-,-,0,0
+Jack Doherty,Chaos GC,0,0,-,-,0,0
+Jack Fain,Elite GC,0,0,-,-,0,0
+Jack McConnell,Shark GC,0,0,-,-,0,0
+Jake Robinson,Smoke GC,0,0,-,-,0,0
+Jake Saunders,Tiger GC,0,0,-,-,0,0
+Jamie Clyde,Nighthawk GC,0,0,-,-,0,0
+JD Beverly,Smoke GC,0,0,-,-,0,0
+Joey Severt,Quattro GC,0,0,-,-,0,0
+John Hoover,Smoke GC,0,0,-,-,0,0
+Keegan Ferer,Clutch GC,0,0,-,-,0,0
+Kevin Cook,Chaos GC,0,0,-,-,0,0
+Lucas Leifeld,Quattro GC,0,0,-,-,0,0
+Marco Dizon,Dart GC,0,0,-,-,0,0
+Mason Embry,Mamba GC,0,0,-,-,0,0
+Matt Moseley,Tiger GC,0,0,-,-,0,0
+Matthew Lodwick,Double Down GC,0,0,-,-,0,0
+Michael Clarke,Dart GC,0,0,-,-,0,0
+Nate Leifeld,Nighthawk GC,0,0,-,-,0,0
+Noah Skrudland,Shark GC,0,0,-,-,0,0
+Pat Ellis,Tiger GC,0,0,-,-,0,0
+Patrick Bush,Chaos GC,0,0,-,-,0,0
+Patrick McNulty,Hammer GC,0,0,-,-,0,0
+Paul Brittain,Shark GC,0,0,-,-,0,0
+Peter Geib,Dart GC,0,0,-,-,0,0
+Preston Fleenor,Tiger GC,0,0,-,-,0,0
+Quillin McKenney,Mamba GC,0,0,-,-,0,0
+Rhett Anderson,Hammer GC,0,0,-,-,0,0
+Robert Meara,Clutch GC,0,0,-,-,0,0
+Robert Taaffe,Elite GC,0,0,-,-,0,0
+Rory Hogan,Dart GC,0,0,-,-,0,0
+Ryan Waters,Nighthawk GC,0,0,-,-,0,0
+Schaeffer Rees,Elite GC,0,0,-,-,0,0
+Sunjay Chawla,Quattro GC,0,0,-,-,0,0
+Thomas Jeansonne,Quattro GC,0,0,-,-,0,0
+Thomas Nolan,Tiger GC,0,0,-,-,0,0
+Travis Amerine,Clutch GC,0,0,-,-,0,0
+Travis Roberts,Elite GC,0,0,-,-,0,0
+Tyler Custard,Smoke GC,0,0,-,-,0,0
+Tyler Sieli,Quattro GC,0,0,-,-,0,0
+Walt Bruce,Smoke GC,0,0,-,-,0,0
+Will Reichert,Chaos GC,0,0,-,-,0,0
+Zach Amacher,Tiger GC,0,0,-,-,0,0
+Zach Brantley,Chaos GC,0,0,-,-,0,0
+Zach Walker,Elite GC,0,0,-,-,0,0
+Empty Slot,,0,0,-,-,0,0
+Empty Slot,,0,0,-,-,0,0
+Empty Slot,,0,0,-,-,0,0
+
