@@ -1,74 +1,74 @@
-Name,Team,DC Points,Wins,AVG Score,Best Score,Birdies,Eagles
-Aidan Franke,Shark GC,0,0,77.0,75,3,0
-Austin Russell,Quattro GC,3,0,75.5,72,3,0
-Austin Woodruff,Tiger GC,5,0,76.0,76,1,0
-Ben Brooks,Shark GC,0,0,80.0,80,1,0
-Ben Fuller,Elite GC,38,0,72.3,70,18,0
-Ben Horton,Clutch GC,0,0,77.3,72,1,0
-Bennett Brock,Mamba GC,160,1,73.3,70,8,0
-Bill Johnson,Double Down GC,23,0,74.0,71,2,0
-Brady Papke,Shark GC,3,0,76.8,73,8,0
-Cade Lewis,Smoke GC,3,0,77.3,73,7,0
-Caiden Vlasimsky,Nighthawk GC,0,0,80.0,73,5,0
-Cam Ruk,Hammer GC,0,0,78.3,72,1,0
-Chris Hughes,Double Down GC,40,0,71.7,66,10,0
-Chris Wines,Double Down GC,117,1,72.0,68,6,0
-Cole Bennett,Hammer GC,0,0,75.7,73,0,0
-Cullen Scott,Mamba GC,0,0,75.0,72,5,0
-Davis Boehm,Nighthawk GC,0,0,77.8,77,4,0
-Davis Milton,Double Down GC,85,1,80.0,76,3,0
-Ely Knaupe,Double Down GC,23,0,84.0,76,1,0
-Ethan Cherry,Mamba GC,0,0,80.0,78,1,0
-Ethan Dabney,Dart GC,0,0,80.0,77,1,0
-Grant Cohen,Nighthawk GC,5,0,81.2,76,2,0
-Harrison Davis,Smoke GC,0,0,84.0,80,0,0
-Holt Dorris,Clutch GC,33,0,80.3,75,1,0
-Hunter McLean,Mamba GC,0,0,87.0,87,0,0
-Hyer Thomas,Hammer GC,9,0,75.3,72,5,0
-Ian Raphael,Chaos GC,0,0,-,-,0,0
-Jack Doherty,Chaos GC,0,0,-,-,0,0
-Jack Fain,Elite GC,112,0,71.0,69,1,0
-Jack McConnell,Shark GC,0,0,73.5,73,2,0
-Jake Robinson,Smoke GC,52,0,79.8,72,7,0
-Jake Saunders,Tiger GC,0,0,79.7,71,2,0
-Jamie Clyde,Nighthawk GC,11,0,72.7,68,7,0
-JD Beverly,Smoke GC,8,0,71.0,71,2,0
-Joey Severt,Quattro GC,120,0,73.7,72,5,0
-John Hoover,Smoke GC,94,0,73.8,69,3,0
-Kallin Sipe,Hammer GC,0,0,85.0,85,1,0
-Keegan Ferer,Clutch GC,0,0,76.5,75,2,0
-Kevin Cook,Chaos GC,0,0,82.3,79,1,0
-Lucas Leifeld,Quattro GC,33,0,79.0,75,4,0
-Marco Dizon,Dart GC,0,0,76.5,73,3,0
-Mason Embry,Mamba GC,0,0,76.0,75,2,1
-Matt Moseley,Tiger GC,70,0,70.0,67,7,1
-Matthew Lodwick,Double Down GC,40,0,132.0,76,0,0
-Michael Clarke,Dart GC,0,0,79.0,77,5,0
-Nate Leifeld,Nighthawk GC,82,0,72.3,69,10,0
-Noah Skrudland,Shark GC,0,0,84.0,84,0,0
-Pat Ellis,Tiger GC,0,0,75.0,72,3,0
-Patrick Bush,Chaos GC,55,0,74.3,72,5,0
-Patrick McNulty,Hammer GC,49,0,74.3,72,4,1
-Paul Brittain,Shark GC,20,0,71.0,69,9,0
-Peter Geib,Dart GC,0,0,80.5,76,1,0
-Preston Fleenor,Tiger GC,100,1,70.0,67,7,1
-Quillin McKenney,Mamba GC,85,1,81.8,72,3,0
-Rhett Anderson,Hammer GC,64,0,72.5,69,14,0
-Robert Meara,Clutch GC,13,0,75.0,71,4,0
-Robert Taaffe,Elite GC,20,0,77.7,72,1,0
-Rory Hogan,Dart GC,5,0,77.5,76,0,0
-Ryan Waters,Nighthawk GC,81,0,72.7,69,10,1
-Schaeffer Rees,Elite GC,17,0,75.7,70,6,0
-Sunjay Chawla,Quattro GC,5,0,78.0,76,2,0
-Thomas Jeansonne,Quattro GC,8,0,81.2,71,0,0
-Thomas Nolan,Tiger GC,0,0,-,-,0,0
-Tommy Flaim,Dart GC,0,0,80.5,80,0,0
-Travis Amerine,Clutch GC,33,0,75.7,72,5,0
-Travis Roberts,Elite GC,191,2,74.8,68,3,0
-Trey Buehler,Clutch GC,34,0,72.3,70,8,0
-Tyler Sieli,Quattro GC,29,0,80.6,71,4,0
-Walt Bruce,Smoke GC,0,0,82.0,77,0,0
-Will Reichert,Chaos GC,0,0,80.7,78,0,0
-Zack Amacher,Tiger GC,0,0,78.0,78,2,0
-Zach Brantley,Chaos GC,0,0,76.0,76,2,0
-Zach Walker,Elite GC,0,0,78.7,76,1,0
+Name,Team,DC Points,Wins,AVG Score (G),AVG Score (N),Best Score (G),Best Score (N),Birdies,Eagles
+Aidan Franke,Shark GC,0,0,80.7,77.0,78,75,3,0
+Austin Russell,Quattro GC,3,0,80.5,75.5,79,72,3,0
+Austin Woodruff,Tiger GC,5,0,84.0,76.0,84,76,1,0
+Ben Brooks,Shark GC,0,0,83.0,80.0,83,80,1,0
+Ben Fuller,Elite GC,38,0,71.8,72.3,69,70,18,0
+Ben Horton,Clutch GC,0,0,88.8,77.3,81,72,1,0
+Bennett Brock,Mamba GC,160,1,76.8,73.3,73,70,8,0
+Bill Johnson,Double Down GC,23,0,75.5,74.0,72,71,2,0
+Brady Papke,Shark GC,3,0,78.0,76.8,73,73,8,0
+Cade Lewis,Smoke GC,3,0,78.3,77.3,75,73,7,0
+Caiden Vlasimsky,Nighthawk GC,0,0,88.5,80.0,81,73,5,0
+Cam Ruk,Hammer GC,0,0,90.0,78.3,87,72,1,0
+Chris Hughes,Double Down GC,40,0,72.3,71.7,66,66,10,0
+Chris Wines,Double Down GC,117,1,78.0,72.0,73,68,6,0
+Cole Bennett,Hammer GC,0,0,87.3,75.7,84,73,0,0
+Cullen Scott,Mamba GC,0,0,81.0,75.0,77,72,5,0
+Davis Boehm,Nighthawk GC,0,0,95.5,77.8,90,77,4,0
+Davis Milton,Double Down GC,85,1,87.8,80.0,82,76,3,0
+Ely Knaupe,Double Down GC,23,0,100.0,84.0,89,76,1,0
+Ethan Cherry,Mamba GC,0,0,89.7,80.0,85,78,1,0
+Ethan Dabney,Dart GC,0,0,94.0,80.0,92,77,1,0
+Grant Cohen,Nighthawk GC,5,0,96.8,81.2,88,76,2,0
+Harrison Davis,Smoke GC,0,0,100.0,84.0,99,80,0,0
+Holt Dorris,Clutch GC,33,0,95.5,80.3,94,75,1,0
+Hunter McLean,Mamba GC,0,0,109.0,87.0,109,87,0,0
+Hyer Thomas,Hammer GC,9,0,86.0,75.3,81,72,5,0
+Ian Raphael,Chaos GC,0,0,-,-,-,-,0,0
+Jack Doherty,Chaos GC,0,0,-,-,-,-,0,0
+Jack Fain,Elite GC,112,0,76.5,71.0,74,69,1,0
+Jack McConnell,Shark GC,0,0,77.0,73.5,76,73,2,0
+Jake Robinson,Smoke GC,52,0,86.8,79.8,78,72,7,0
+Jake Saunders,Tiger GC,0,0,86.0,79.7,76,71,2,0
+Jamie Clyde,Nighthawk GC,11,0,76.3,72.7,72,68,7,0
+JD Beverly,Smoke GC,8,0,83.0,71.0,83,71,2,0
+Joey Severt,Quattro GC,120,0,82.7,73.7,80,72,5,0
+John Hoover,Smoke GC,94,0,84.0,73.8,78,69,3,0
+Kallin Sipe,Hammer GC,0,0,92.0,85.0,92,85,1,0
+Keegan Ferer,Clutch GC,0,0,92.5,76.5,90,75,2,0
+Kevin Cook,Chaos GC,0,0,99.3,82.3,93,79,1,0
+Lucas Leifeld,Quattro GC,33,0,88.0,79.0,87,75,4,0
+Marco Dizon,Dart GC,0,0,84.8,76.5,81,73,3,0
+Mason Embry,Mamba GC,0,0,81.0,76.0,80,75,2,1
+Matt Moseley,Tiger GC,70,0,69.0,70.0,66,67,7,1
+Matthew Lodwick,Double Down GC,40,0,140.0,132.0,82,76,0,0
+Michael Clarke,Dart GC,0,0,85.8,79.0,82,77,5,0
+Nate Leifeld,Nighthawk GC,82,0,75.0,72.3,72,69,10,0
+Noah Skrudland,Shark GC,0,0,110.0,84.0,110,84,0,0
+Pat Ellis,Tiger GC,0,0,80.5,75.0,76,72,3,0
+Patrick Bush,Chaos GC,55,0,79.7,74.3,76,72,5,0
+Patrick McNulty,Hammer GC,49,0,81.8,74.3,78,72,4,1
+Paul Brittain,Shark GC,20,0,75.3,71.0,72,69,9,0
+Peter Geib,Dart GC,0,0,88.5,80.5,83,76,1,0
+Preston Fleenor,Tiger GC,100,1,69.0,70.0,66,67,7,1
+Quillin McKenney,Mamba GC,85,1,103.8,81.8,92,72,3,0
+Rhett Anderson,Hammer GC,64,0,70.5,72.5,67,69,14,0
+Robert Meara,Clutch GC,13,0,81.5,75.0,78,71,4,0
+Robert Taaffe,Elite GC,20,0,86.7,77.7,83,72,1,0
+Rory Hogan,Dart GC,5,0,99.0,77.5,97,76,0,0
+Ryan Waters,Nighthawk GC,81,0,73.7,72.7,69,69,10,1
+Schaeffer Rees,Elite GC,17,0,79.7,75.7,75,70,6,0
+Sunjay Chawla,Quattro GC,5,0,82.7,78.0,82,76,2,0
+Thomas Jeansonne,Quattro GC,8,0,103.4,81.2,96,71,0,0
+Thomas Nolan,Tiger GC,0,0,-,-,-,-,0,0
+Tommy Flaim,Dart GC,0,0,91.0,80.5,89,80,0,0
+Travis Amerine,Clutch GC,33,0,76.3,75.7,72,72,5,0
+Travis Roberts,Elite GC,191,2,90.8,74.8,83,68,3,0
+Trey Buehler,Clutch GC,34,0,75.0,72.3,72,70,8,0
+Tyler Sieli,Quattro GC,29,0,90.2,80.6,81,71,4,0
+Walt Bruce,Smoke GC,0,0,90.5,82.0,84,77,0,0
+Will Reichert,Chaos GC,0,0,101.0,80.7,97,78,0,0
+Zack Amacher,Tiger GC,0,0,79.0,78.0,79,78,2,0
+Zach Brantley,Chaos GC,0,0,93.0,76.0,93,76,2,0
+Zach Walker,Elite GC,0,0,86.0,78.7,83,76,1,0
